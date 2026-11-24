@@ -103,3 +103,4 @@ webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]
 
 1. In Discord, go to **User Settings → Advanced → Enable Developer Mode**
 2. Right-click any voice channel → **Copy Channel ID**
+# Selfbot-control
