@@ -1,0 +1,14 @@
+{
+  "name": "selfbot-vc",
+  "version": "1.0.0",
+  "description": "Selfbot voice channel controller",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.3.2",
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}
